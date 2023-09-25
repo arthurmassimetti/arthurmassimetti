@@ -9,8 +9,10 @@ Olá, sou Arthur Massimetti. Gosto de conversar, fazer conexões e estou sempre 
 - 🌱 Atualmente, estou aprendendo Python, lógica de programação e explorando códigos na área de automação, envolvendo as bibliotecas Selenium e PyAutoGUI.
 - 💼 Estagiando na área de TI em uma clínica médica.
 - 📫 Como entrar em contato comigo:
-  - [LinkedIn](https://bit.ly/464Q9yO)
-  - arthursartori27@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/464Q9yO)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursartori27@gmail.com)
+
+
 
 ## Minhas Habilidades
 
