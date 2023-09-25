@@ -30,8 +30,12 @@ Olá, sou Arthur Massimetti. Gosto de conversar, fazer conexões e estou sempre 
 
 
 
-##
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://bit.ly/455Cx55) [Read in English](https://bit.ly/455Cx55)
+
+
+
+## This is my English presentation, click here to get to know me.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://bit.ly/455Cx55) 
 
 
 
