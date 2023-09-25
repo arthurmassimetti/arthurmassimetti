@@ -30,6 +30,9 @@ Olá, sou Arthur Massimetti. Gosto de conversar, fazer conexões e estou sempre 
 
 
 
+##
+- [Presentation in English](https://bit.ly/455Cx55)
+
 
 
 
