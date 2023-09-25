@@ -19,13 +19,16 @@ Olá, sou Arthur Massimetti. Gosto de conversar, fazer conexões e estou sempre 
 - Linguagens de Programação: Python, HTML, CSS, SQL
 - Ferramentas e Frameworks: Illustrator, Photoshop, Visual Studio Code, PyCharm
 - Projetos de Destaque:
-- [Bot de Network no LinkedIn](https://github.com/arthurmassimetti/BOTLINKEDIN) - Um projeto que criei para otimizar conexões e interações na plataforma LinkedIn.
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmassimetti/BOTLINKEDIN)
+- Um projeto que criei para otimizar conexões e interações na plataforma LinkedIn.
 
 
 ## Minhas Redes Sociais
 
-- [LinkedIn](https://bit.ly/464Q9yO)
-- https://www.instagram.com/arthurmassimetti/.
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/464Q9yO)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmassimetti/)
+
+
 
 
 
