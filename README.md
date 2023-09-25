@@ -12,7 +12,7 @@ Olá, sou [Seu Nome]. Gosto de conversar, fazer conexões e estou sempre atento 
 - 💼 Estagiando na área de TI em uma clínica médica.
 - 📫 Como entrar em contato comigo:
   - [LinkedIn](https://bit.ly/464Q9yO)
-  - Email: arthursartori27@gmail.com
+  - arthursartori27@gmail.com
 
 ## Minhas Habilidades
 
