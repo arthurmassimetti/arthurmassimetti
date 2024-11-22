@@ -50,14 +50,6 @@ I’m a dedicated developer driven by curiosity and a passion for creating impac
 
 ---
 
-## 📂 Highlight Projects
-
-- **[LinkedIn Bot](https://github.com/arthurmassimetti/BOTLINKEDIN)**: Automated connection and interaction optimizer for LinkedIn.  
-- **[LiçãoDeCasa Repository](https://github.com/arthurmassimetti/LiçãoDeCasa)**: Contains various advanced Python exercises, including **SENAI Python Advanced** content.  
-- **WPP ChatGPT**: A WhatsApp-integrated chatbot using Venom-bot, Axios, and Express.js.
-
----
-
 ## 📜 My Resume
 
 You can find my complete CV here:  
