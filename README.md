@@ -1,24 +1,6 @@
 # 👋 Welcome to My Profile!
 
-Hello, I'm Arthur Massimetti Sartori, also known as Mestre dos Magos!
-I’m a dedicated developer driven by curiosity and a passion for creating impactful solutions through programming and automation. Constant learning and knowledge-sharing are at the core of my journey. I thrive on collaboration, believing that growth is best achieved when we uplift and inspire one another. 🚀
----
-
-## 🌟 About Me
-
-- 🎯 **Current Focus**:  
-  - Building APIs and backend systems using **Node.js**.  
-  - Exploring advanced **Python** features for data processing, automation, and AI.  
-  - Integrating systems with tools like **Bitrix24**, **Oracle NetSuite**, and **Infor LN Cloud**.  
-  - Creating dashboards and transforming data using **Power BI** and SQL.
-
-- 📘 **Learning Goals**:  
-  - Diving deeper into **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Docker**.  
-  - Expanding my knowledge of **Vue.js** for frontend development.  
-  - Improving my fluency in **English**, **French**, and starting to learn **German**.
-
 - 🌐 **Languages**: Fluent in Portuguese 🇧🇷 | Advanced English 🇺🇸 | Beginner in French 🇫🇷 and German 🇩🇪.
-
 ---
 
 ## 💻 My Skills
