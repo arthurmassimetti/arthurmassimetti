@@ -48,3 +48,5 @@ You can find my complete CV here:
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursartori27@gmail.com)
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
