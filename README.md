@@ -49,4 +49,3 @@ You can find my complete CV here:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmassimetti&layout=compact)
