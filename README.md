@@ -49,6 +49,6 @@ You can find my complete CV here:
 
 ---
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/arthurmassimetti/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=arthurmassimetti&theme=default&show_icons=true)](https://github.com/arthurmassimetti/github-readme-stats)
 
 
