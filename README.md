@@ -1,43 +1,39 @@
-# 👋 Welcome to my GitHub
+#  Welcome to my GitHub
 
 ---
 
-## 🚀 About Me
+##  About Me
 Full-Stack Developer passionate about **ERP Integrations (Infor LN, Oracle NetSuite, Oracle Cloud)**, **APIs** and **Automation (RPA, Bots, Data Science)**.  
 Always learning, building and sharing knowledge.  
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### 🛠️ Languages & Frameworks
-- 🐍 Python | 🟢 JavaScript (Node.js) | 💎 Java | 🛢️ SQL  
-- 🚀 Express.js | 🔷 Vue.js | 🌟 Flask | JDBC  
-- 🎨 HTML, CSS, Bootstrap  
-
-### 📊 Data & Visualization
-- 📊 Power BI | 📈 Pandas | 🔍 Scikit-learn | 🤖 TensorFlow (basic)  
+- Python | JavaScript (Node.js) |  Java |  SQL  
+-  Express.js |  Vue.js |  Flask | JDBC  
+-  HTML, CSS, Bootstrap, tailwind  
 
 ### 🔧 Tools & Platforms
-- 🗄️ Databases: MySQL | SQL Server | PostgreSQL  
-- 🐙 Git & GitHub | 🐳 Docker | 🧪 Postman  
-- ☁️ Oracle NetSuite | Infor LN Cloud | Bitrix24  
+-  Databases: MySQL | SQL Server | PostgreSQL  
+-  Git & GitHub |  Docker |  Postman  
+-  Oracle NetSuite | Infor LN Cloud | OIC (Oracle Cloud Infraestructure)
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurMassimetti&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMassimetti&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ArthurMassimetti&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
