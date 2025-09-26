@@ -1,7 +1,3 @@
-#  Welcome to my GitHub
-
----
-
 ##  About Me
 Full-Stack Developer passionate about **ERP Integrations (Infor LN, Oracle NetSuite, Oracle Cloud)**, **APIs** and **Automation (RPA, Bots, Data Science)**.  
 Always learning, building and sharing knowledge.  
@@ -26,7 +22,6 @@ Always learning, building and sharing knowledge.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS"/> 
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> 
@@ -47,14 +42,3 @@ Always learning, building and sharing knowledge.
 
 </div>
 
----
-
-## Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmassimetti/)  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/arthurmassimetti)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthursartori27@gmail.com)
-
-</div>
