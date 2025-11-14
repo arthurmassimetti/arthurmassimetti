@@ -1,10 +1,7 @@
-##  About Me
 Full-Stack Developer passionate about **ERP Integrations (Infor LN, Oracle NetSuite, Oracle Cloud)**, **APIs** and **Automation (RPA, Bots, Data Science)**.  
 Always learning, building and sharing knowledge.  
 
 ---
-
-## Tech Stack
 
 <div align="center">
 
